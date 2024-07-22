@@ -1,0 +1,17 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 1" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 1
+http://xtv.ooo:8080/live/adeel349/5692929/247998.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 2" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 2
+http://xtv.ooo:8080/live/adeel349/5692929/247999.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 3" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 3
+http://xtv.ooo:8080/live/adeel349/5692929/248000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 4" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 4
+http://xtv.ooo:8080/live/adeel349/5692929/248001.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 5" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 5
+http://xtv.ooo:8080/live/adeel349/5692929/248002.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 6" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 6
+http://xtv.ooo:8080/live/adeel349/5692929/248003.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 7" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 7
+http://xtv.ooo:8080/live/adeel349/5692929/248004.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 8" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 8
+http://xtv.ooo:8080/live/adeel349/5692929/248005.m3u8
