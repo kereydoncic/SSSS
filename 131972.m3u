@@ -101,5 +101,5 @@ http://15.235.187.28:1234/stream/trickflix2/tlc/master.m3u8?u=sacha&p=902e9ba4e4
 http://15.235.187.28:1234/stream/trickflix2/tvnmovies/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 #EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",WARNER_TV
 http://15.235.187.28:1234/stream/trickflix2/warnertv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 provider=" group-title=" tvg-logo="" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",WWE _NETWORK
+#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",WWE _NETWORK
 http://15.235.187.28:1234/stream/trickflix2/wwenetwork/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
