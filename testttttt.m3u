@@ -1,3 +1,669 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KARAOKE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png/revision/latest?cb=20190711121840" group-title="LOCAL",KARAOKE
-http://vstream.vip:80.m3u8
+http://vstream.vip:80/live/testline/testline/1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KAPAMILYA CHANNEL HD" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SjOLiI-8IP55Y_-W44Qc9lv76rheV4wMZ-sJKYDX2tnA5COtqmU2mX-9vHf-wM7Eut6c9XM_OuO-SISpSXCWK3.png" group-title="LOCAL",KAPAMILYA CHANNEL HD
+http://vstream.vip:80/live/testline/testline/143.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KAPAMILYA CHANNEL" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QX5OeiupwDVj5YNkjEAwIK1kwg6sV3Wwr1hPhrUFB7YQ.jpg" group-title="LOCAL",KAPAMILYA CHANNEL
+http://vstream.vip:80/live/testline/testline/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TZxZ3CJcxfRtkvDMldAh35ss0Rgyis0ya_5Rwwf-5LNQ.jpg" group-title="LOCAL",GTV
+http://vstream.vip:80/live/testline/testline/138.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA 7 LZN" tvg-logo="http://vstream.vip:80/images/VjcWddadysoiVJIoAuuzd3bDRfy3ARp6SatA2hBmIk8g1R00x3XH1H3R9DPBhk7sMs-QZjXaWQWuyumvrJHpOJHow3YZyRYhObegOKleU04.jpg" group-title="LOCAL",GMA 7 LZN
+http://vstream.vip:80/live/testline/testline/135.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA" tvg-logo="http://vstream.vip:80/images/VjcWddadysoiVJIoAuuzd3bDRfy3ARp6SatA2hBmIk8g1R00x3XH1H3R9DPBhk7sMs-QZjXaWQWuyumvrJHpOJHow3YZyRYhObegOKleU04.jpg" group-title="LOCAL",GMA
+http://vstream.vip:80/live/testline/testline/5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 HD" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TeCi1JbAIitV90qMS3nCS8MWMRnOIr8VSFYvvbiuvZPw.png" group-title="LOCAL",TV5 HD
+http://vstream.vip:80/live/testline/testline/3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5T5FhTD3BcMwuO6ZJUPfPUF.png" group-title="LOCAL",TV5
+http://vstream.vip:80/live/testline/testline/4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A2Z" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RSkuvSsiNCWESVumJltTaSqSX7zmlC_aEPWwq-ChZFNK-mmgOVzBFC0O5RMnrIEMg.png" group-title="LOCAL",A2Z
+http://vstream.vip:80/live/testline/testline/6.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JEEPNEY TV" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Q0-fs9idbEZki8Q-0BADhJmdpMRo2ATz14VnCgL_-ocQ.jpg" group-title="LOCAL",JEEPNEY TV
+http://vstream.vip:80/live/testline/testline/7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEPED TV" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.aHzBEgK49C2eqd6Zo6dYfAHaI1&pid=Api&P=0&h=220" group-title="LOCAL",DEPED TV
+http://vstream.vip:80/live/testline/testline/1314.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TtGVF8kLunIzXc31bcmAnR.png" group-title="LOCAL",PTV
+http://vstream.vip:80/live/testline/testline/10.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HEART OF ASIA" tvg-logo="https://s.yimg.com/fz/api/res/1.2/8250De6X.NjpDSy_JBAPdw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/de03ea15-7c91-3c8d-b5e0-6e3df1356912/t_140x140" group-title="LOCAL",HEART OF ASIA
+http://vstream.vip:80/live/testline/testline/151.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I HEART MOVIES" tvg-logo="https://up.yimg.com/ib/th?id=OIP.sjLBUGeh8RaFBYfpJEWFGwHaFX&pid=Api&rs=1&c=1&qlt=95&w=171&h=123" group-title="LOCAL",I HEART MOVIES
+http://vstream.vip:80/live/testline/testline/152.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SARI-SARI" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.c8mmvUljj5D4yvZc76nFNAHaHP&pid=Api&P=0&h=220" group-title="LOCAL",SARI-SARI
+http://vstream.vip:80/live/testline/testline/153.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BUKO CHANNEL" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.ph_7Uv-meouzQBVcfuuQQwHaIL&pid=Api&P=0&h=220" group-title="LOCAL",BUKO CHANNEL
+http://vstream.vip:80/live/testline/testline/154.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALL TV" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Qnjmtc9t06kU8Z_N17RkYADfjPQMrbPBuqyOSbvPGyyw.JPG" group-title="LOCAL",ALL TV
+http://vstream.vip:80/live/testline/testline/161.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC" tvg-logo="https://s.yimg.com/fz/api/res/1.2/B7hEO2maN0cMu8Ed7Lf3tA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/3f8c135a-01fb-365a-98e8-2ff6ca9d9dda/t_140x140" group-title="LOCAL",IBC
+http://vstream.vip:80/live/testline/testline/108.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Mky85FrcZnbrnG4dsUEeUwAAAA&pid=Api&P=0&h=220" group-title="LOCAL",TFC
+http://vstream.vip:80/live/testline/testline/110.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE PH" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QaG3sGvRUvkd4_qdTSGHbU.jpg" group-title="LOCAL",ONE PH
+http://vstream.vip:80/live/testline/testline/14.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KNOWLEDGE CHANNEL" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5THbt1xdf0Ao85u6LPySIxVRvDJG5WnjTF6I7GwYX60Ew.jpg" group-title="LOCAL",KNOWLEDGE CHANNEL
+http://vstream.vip:80/live/testline/testline/129.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNTV" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TnZdSFEAXebzqMY9TlWRP9vGnBJQOkdNm93vjFVgwZGA.png" group-title="LOCAL",UNTV
+http://vstream.vip:80/live/testline/testline/9.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLTV 36 [NOT 24/7]" tvg-logo="https://s.yimg.com/fz/api/res/1.2/9vKv_Ne.lBMfJjf5w5gElw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/dd98d8a0-e3b3-3285-9751-19db4f18df2d/t_140x140" group-title="LOCAL",CLTV 36 [NOT 24/7]
+http://vstream.vip:80/live/testline/testline/11.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZRH TV" tvg-logo="https://up.yimg.com/ib/th?id=OIP.ST1AGbb5-bLzWe_eQJSbYQAAAA&pid=Api&rs=1&c=1&qlt=95&w=164&h=108" group-title="LOCAL",DZRH TV
+http://vstream.vip:80/live/testline/testline/12.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZBB" tvg-logo="http://vstream.vip:80/images/fVQwnC0i7uFtTS5nTGHlhR3zVg2D18mn0ZjQdQjMnr5OJ58CzhWOZeWT9uO_B1vEA55obggUYSR4PeWbCH1bqCBCNTHwKZ5JMrJkdVuMX8jaMXBYLs6iIdtpVInEsHYM.png" group-title="LOCAL",DZBB
+http://vstream.vip:80/live/testline/testline/15.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELERADYO" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.OpySgjqyvrLFv2C2DR1V7AHaFj&pid=Api&P=0&h=220" group-title="LOCAL",TELERADYO
+http://vstream.vip:80/live/testline/testline/16.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE NEWS" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.OJwLEmBTluyRrm2v9LnT0QHaFt&pid=Api&P=0&h=220" group-title="LOCAL",ONE NEWS
+http://vstream.vip:80/live/testline/testline/122.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUE FM" tvg-logo="https://up.yimg.com/ib/th?id=OIP.mnFsqTyoPfS65QqSTLKHLAHaHa&pid=Api&rs=1&c=1&qlt=95&w=112&h=112" group-title="LOCAL",TRUE FM
+http://vstream.vip:80/live/testline/testline/1306.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CELESTIAL MOVIES PINOY" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Se6jFV4Z7-aqEzJGiZJzAGBVcYDB97sERmmh7CFR6qMQ.jpg" group-title="MOVIES",CELESTIAL MOVIES PINOY
+http://vstream.vip:80/live/testline/testline/159.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA CINEMA" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Ri6qP5cna0vGp8GLnURqogDew3X51Rqh19pUmAfvXmiA.jpg" group-title="MOVIES",VIVA CINEMA
+http://vstream.vip:80/live/testline/testline/160.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN MOVIES PINOY" tvg-logo="https://up.yimg.com/ib/th?id=OIP.7i_NEUaiqj2UtFHiHjzzhgHaF0&pid=Api&rs=1&c=1&qlt=95&w=82&h=64" group-title="MOVIES",TVN MOVIES PINOY
+http://vstream.vip:80/live/testline/testline/1307.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TMC" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QP3tSoSnh0jEU4D-QJDGskNl6Xd3Cpi8RRLMTIPAp1PoWc_soznP2bIt_JwqblVOI.png" group-title="MOVIES",TMC
+http://vstream.vip:80/live/testline/testline/104.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TnolxmjV-P9gnEfEwouI22_XmAjQlkf2jQ-2b-HU_OdQ.jpg" group-title="MOVIES",PBO
+http://vstream.vip:80/live/testline/testline/20.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMO" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RAiWIGlE8cN87sBFl6r7RH.jpg" group-title="MOVIES",CINEMO
+http://vstream.vip:80/live/testline/testline/21.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMO GLOBAL" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RAiWIGlE8cN87sBFl6r7RH.jpg" group-title="MOVIES",CINEMO GLOBAL
+http://vstream.vip:80/live/testline/testline/22.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA ONE" tvg-logo="https://s.yimg.com/fz/api/res/1.2/pPopP0tdQ5k4kAmkgTic_g--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/22a2513e-2233-32c5-a691-87f6389cc8a2/t_140x140" group-title="MOVIES",CINEMA ONE
+http://vstream.vip:80/live/testline/testline/23.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA ONE GLOBAL" tvg-logo="https://s.yimg.com/fz/api/res/1.2/BPLcTBLPQqhk3NnvedlOPA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTMw/https://s.yimg.com/zb/imgv1/22a2513e-2233-32c5-a691-87f6389cc8a2/t_500x300" group-title="MOVIES",CINEMA ONE GLOBAL
+http://vstream.vip:80/live/testline/testline/24.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS MOVIES" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SHUFaIZtZD217NKmIUUqDZ_tsM_dBUva_cdN7wItaHlg.png" group-title="MOVIES",HITS MOVIES
+http://vstream.vip:80/live/testline/testline/26.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RV1TJ0TL1glJCC0HpoxKtse_lp0A1npdabGcCUPfZ3MQ.jpg" group-title="MOVIES",HBO FAMILY
+http://vstream.vip:80/live/testline/testline/80.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SIGNATURE" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SWx_xOa7LQp6YSBZjgui1GtUod3SMFntSuQmirvMBkvw.png" group-title="MOVIES",HBO SIGNATURE
+http://vstream.vip:80/live/testline/testline/81.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QW-N1hIHfJT3QL-IiHoode.png" group-title="MOVIES",HITS
+http://vstream.vip:80/live/testline/testline/87.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://up.yimg.com/ib/th?id=OIP.osscav8LjAQE2GON3SDKtAHaDZ&pid=Api&rs=1&c=1&qlt=95&w=208&h=95" group-title="MOVIES",HBO
+http://vstream.vip:80/live/testline/testline/148.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROCK ENTERTAINMENT" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RTJIkNC4Tuk5Mfu5vvBFhtdm-iLYKWobZlOG6RgRa60Q.jpg" group-title="MOVIES",ROCK ENTERTAINMENT
+http://vstream.vip:80/live/testline/testline/156.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOLARFLIX" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SztmHTFR8WIcLSyauelr_HkYU041PUxn0qcc0dJTQ3CQ.png" group-title="MOVIES",SOLARFLIX
+http://vstream.vip:80/live/testline/testline/158.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HITS" tvg-logo="https://up.yimg.com/ib/th?id=OIP.vUSh5Vvnh-hCexOB0-brtwHaEo&pid=Api&rs=1&c=1&qlt=95&w=180&h=112" group-title="MOVIES",HBO HITS
+http://vstream.vip:80/live/testline/testline/1299.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ROCK ACTION" tvg-logo="https://s.yimg.com/fz/api/res/1.2/w9z860iHaSmeAr7_jbQZcQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/532704c4-6578-3a29-9ef6-3b90b26c8a64/t_500x300" group-title="MOVIES",ROCK ACTION
+http://vstream.vip:80/live/testline/testline/1304.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN" tvg-logo="https://up.yimg.com/ib/th?id=OIP.-WI89P3CKYqi8T661G2SagAAAA&pid=Api&rs=1&c=1&qlt=95&w=94&h=113" group-title="MOVIES",TVN
+http://vstream.vip:80/live/testline/testline/1308.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS NOW" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RUO5HORG7fs0XXXpFQeaA46PvTnK_Z9kCvCIX13IEoxw.png" group-title="MOVIES",HITS NOW
+http://vstream.vip:80/live/testline/testline/88.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN MOVIES" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.aRdo41BMHGQxRI8Ht6p5nQAAAA&pid=Api&P=0&h=220" group-title="MOVIES",TVN MOVIES
+http://vstream.vip:80/live/testline/testline/94.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY CINEMA" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.d0Zj30B0t-PpbaGjl0L-3QAAAA&pid=Api&P=0&h=220" group-title="MOVIES",MY CINEMA
+http://vstream.vip:80/live/testline/testline/120.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THRILL" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RdKdqJ8ZAKHgotWT1XJRdPlW-_n6pHAz7kN4oEoSmupA.png" group-title="MOVIES",THRILL
+http://vstream.vip:80/live/testline/testline/127.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX EAST" tvg-logo="https://up.yimg.com/ib/th?id=OIP.Ub3dFefNC_3tyi0kO3DU0AAAAA&pid=Api&rs=1&c=1&qlt=95&w=104&h=104" group-title="MOVIES",CINEMAX EAST
+http://vstream.vip:80/live/testline/testline/149.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.eAA2mEn3BKQOYkLlLjHzWQHaE8&pid=Api&P=0&h=220" group-title="MOVIES",AXN
+http://vstream.vip:80/live/testline/testline/72.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIES" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.sosu9fGSatTKVq3ih0QYDgHaHa&pid=Api&P=0&h=220" group-title="MOVIES",SONY MOVIES
+http://vstream.vip:80/live/testline/testline/97.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMAX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.remMddKKRZUR4w9W8cTmgwHaEK&pid=Api&P=0&h=220" group-title="MOVIES",DMAX
+http://vstream.vip:80/live/testline/testline/98.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACTION HOLLYWOOD MOVIES" tvg-logo="https://up.yimg.com/ib/th?id=OIP.qnvK1kwCky06hPFTxM2YKAAAAA&pid=Api&rs=1&c=1&qlt=95&w=190&h=108" group-title="MOVIES",ACTION HOLLYWOOD MOVIES
+http://vstream.vip:80/live/testline/testline/103.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMACHI EXTRA" tvg-logo="https://tse2.explicit.bing.net/th?id=OIP.f22Qq6oenGxUyxlaZlBXFgAAAA&pid=Api&P=0&h=220" group-title="MOVIES",CINEMACHI EXTRA
+http://vstream.vip:80/live/testline/testline/116.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA WORLD" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.5oziPh82v9O-SdqbZGzKYwHaE8&pid=Api&P=0&h=220" group-title="MOVIES",CINEMA WORLD
+http://vstream.vip:80/live/testline/testline/119.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RDvngrWzdAHkPI2v3f7RjZ.jpg" group-title="MOVIES",CINEMAX
+http://vstream.vip:80/live/testline/testline/141.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="https://up.yimg.com/ib/th?id=OIP.cva4kkO6XEFcO_GrpqOAAgHaCP&pid=Api&rs=1&c=1&qlt=95&w=246&h=74" group-title="MOVIES",HBO 2
+http://vstream.vip:80/live/testline/testline/150.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBAL TREKKER" tvg-logo="https://up.yimg.com/ib/th?id=OIP.LMFocvCRFLbekfz7hiqt8AHaDt&pid=Api&rs=1&c=1&qlt=95&w=218&h=109" group-title="MOVIES",GLOBAL TREKKER
+http://vstream.vip:80/live/testline/testline/1298.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCM" tvg-logo="http://vstream.vip:80/images/qBTBBplw7KneB3R2TSwgvJnfWcIHFA4g9WEG9rn5y6pWVuPZPDOKsFmOrtSXyvJmTqrDTsu7RilPUUKxN5G8Vw.png" group-title="MOVIES",CCM
+http://vstream.vip:80/live/testline/testline/1330.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CELESTIAL MOVIE" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.7iKu1VzluMmkbH0U79GvugAAAA&pid=Api&P=0&h=220" group-title="MOVIES",CELESTIAL MOVIE
+http://vstream.vip:80/live/testline/testline/1319.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBA RUSH" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SqwyKy3y1zLHZcHLU9904W0i_2ip9rv5sKc8NsCMCtjg.jpg" group-title="SPORTS",PBA RUSH
+http://vstream.vip:80/live/testline/testline/28.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE SPORTS" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QbGSD--xhT96Iz1dGvHSY0s3L69XmmSpwKnV2FUFq3Sw.png" group-title="SPORTS",ONE SPORTS
+http://vstream.vip:80/live/testline/testline/29.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE SPORTS +" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Tau4NE6dzt1Jz7vyyLFgDe-k49u8Y5E15YEXujMjcjTg.jpg" group-title="SPORTS",ONE SPORTS +
+http://vstream.vip:80/live/testline/testline/30.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOLF PH" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.iiSnitZhIgJ-Bb9jfWXrMAHaHa&pid=Api&P=0&h=220" group-title="SPORTS",GOLF PH
+http://vstream.vip:80/live/testline/testline/31.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOLAR SPORTS" tvg-logo="https://up.yimg.com/ib/th?id=OIP.0BXzytRKDB_ExakzWxuu6AHaGF&pid=Api&rs=1&c=1&qlt=95&w=112&h=92" group-title="SPORTS",SOLAR SPORTS
+http://vstream.vip:80/live/testline/testline/1320.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UAAP" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RVGHgkbmPnclExc7E7ybbt.jpg" group-title="SPORTS",UAAP
+http://vstream.vip:80/live/testline/testline/83.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA PH" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QRK9FJdBfJQryxsRPpq1ZgRCepYMdfHZP1zx1IUS6TAA.jpg" group-title="SPORTS",NBA PH
+http://vstream.vip:80/live/testline/testline/155.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RPTV" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RwyDUhVCea9HFhwr3fQa-ro0qOMOaD0mDv19L4DQczjA.png" group-title="SPORTS",RPTV
+http://vstream.vip:80/live/testline/testline/157.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV ASIA" tvg-logo="http://vstream.vip:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvGCJ5fvPJlf63Fl8rJXRozP6w6i-dxFK9mm0jMW4yVgg2mhen9WvMGh4Kzo_jvBKu.png" group-title="SPORTS",NBA TV ASIA
+http://vstream.vip:80/live/testline/testline/162.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MPTV" tvg-logo="https://up.yimg.com/ib/th?id=OIP.VJpd8ms9DB41IjHVpqIChAHaEn&pid=Api&rs=1&c=1&qlt=95&w=190&h=118" group-title="SPORTS",MPTV
+http://vstream.vip:80/live/testline/testline/1310.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EURO SPORTS" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Q89JjXPOfaygY8mYT6ivYAHaE0&pid=Api&P=0&h=220" group-title="SPORTS",EURO SPORTS
+http://vstream.vip:80/live/testline/testline/1312.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TENNIS CHANNEL" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.OyT7_YBv1x_gnt4w73PAHwHaJr&pid=Api&P=0&h=220" group-title="SPORTS",TENNIS CHANNEL
+http://vstream.vip:80/live/testline/testline/32.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIGHT NETWORK" tvg-logo="http://vstream.vip:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjqlD8PjQkmsQNK8224v75EalJHpFgXqwnpCu5KE6XCx6pRHU2igaYsgQfCMiPpuhXgxJcEPZFgACF2YF30XqWIvZ9IzaoTmqJV9n2K446tYo.png" group-title="SPORTS",FIGHT NETWORK
+http://vstream.vip:80/live/testline/testline/33.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="http://vstream.vip:80/images/K58RzTkqs8429gLoKKXWp1s2605OCRLhJaZi2TMh6wu-vsFAG5i5eyAWWmZTu-GiouCUPWjlstWqYsExuBnYODT5uVKvnnh0fjASXJv-DIk.png" group-title="SPORTS",ESPN
+http://vstream.vip:80/live/testline/testline/34.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMPACT WRESTLING" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.gvn61C31Eq8f8K4aPoxELgHaEy&pid=Api&P=0&h=220" group-title="SPORTS",IMPACT WRESTLING
+http://vstream.vip:80/live/testline/testline/35.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDBULL TV" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.hWEHgJoW_bbaobCRf1I26QAAAA&pid=Api&P=0&h=220" group-title="SPORTS",REDBULL TV
+http://vstream.vip:80/live/testline/testline/36.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBA RUSH HD" tvg-logo="https://s.yimg.com/fz/api/res/1.2/o6pWJ5QZHAz9T0rThiWyLg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/612828b1-ad72-3888-bed7-e2bfb568b6ce/t_140x140" group-title="SPORTS",PBA RUSH HD
+http://vstream.vip:80/live/testline/testline/132.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIGHT SPORTS" tvg-logo="https://up.yimg.com/ib/th?id=OIP.1zImfFkJ7c37Wfv6BHfqRwAAAA&pid=Api&rs=1&c=1&qlt=95&w=129&h=97" group-title="SPORTS",FIGHT SPORTS
+http://vstream.vip:80/live/testline/testline/95.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN U" tvg-logo="http://vstream.vip:80/images/GaiERX9N6FqLLVStrOp5A83Nkss6SxDOSX-bKFn1bxXF5GEfTMsXK2U9t7HCTT_Pu2S98J_vgWadtoXFyGQPAFBH-RarNoafETIhSxcyGChph9caYKqXQFFDr8QQbwgu.png" group-title="SPORTS",ESPN U
+http://vstream.vip:80/live/testline/testline/167.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE SPORTS" tvg-logo="https://up.yimg.com/ib/th?id=OIP.yRk5ke2HU68z3IzFqKp-WAAAAA&pid=Api&rs=1&c=1&qlt=95&w=89&h=51" group-title="SPORTS",PREMIERE SPORTS
+http://vstream.vip:80/live/testline/testline/1303.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTV" tvg-logo="https://up.yimg.com/ib/th?id=OIP.cA79g-hdMHVZNGYDo4pp4wHaCk&pid=Api&rs=1&c=1&qlt=95&w=301&h=104" group-title="SPORTS",SPOTV
+http://vstream.vip:80/live/testline/testline/1305.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAP EDGE" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.4_c9EanT9UDLW0NBnSmoSgAAAA&pid=Api&P=0&h=220" group-title="SPORTS",TAP EDGE
+http://vstream.vip:80/live/testline/testline/1315.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAP SPORTS" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Ejog4JPFqdwur3qYcs9t1gAAAA&pid=Api&P=0&h=220" group-title="SPORTS",TAP SPORTS
+http://vstream.vip:80/live/testline/testline/1316.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOLF NETWORK" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.gBFHf-JEOlJnnbeDK5UbDwHaHa&pid=Api&P=0&h=220" group-title="SPORTS",GOLF NETWORK
+http://vstream.vip:80/live/testline/testline/68.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.DH5Cm706SamkRELUd9T0xQHaIV&pid=Api&P=0&h=220" group-title="SPORTS",WWE
+http://vstream.vip:80/live/testline/testline/111.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 1" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.n9PmabXBQ2_UVDEC0IbgqgHaFV&pid=Api&P=0&h=220" group-title="SPORTS",BEIN SPORTS 1
+http://vstream.vip:80/live/testline/testline/114.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FITE" tvg-logo="https://up.yimg.com/ib/th?id=OIP.mxZe2vVBo34nPVa8s8RfjwHaCT&pid=Api&rs=1&c=1&qlt=95&w=307&h=95" group-title="SPORTS",FITE
+http://vstream.vip:80/live/testline/testline/115.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="https://up.yimg.com/ib/th?id=OIP.6ZR_Iy7iq9SkwSKrTVlufAHaBZ&pid=Api&rs=1&c=1&qlt=95&w=616&h=115" group-title="SPORTS",ESPN 2
+http://vstream.vip:80/live/testline/testline/144.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE -2" tvg-logo="https://up.yimg.com/ib/th?id=OIP.pCMMJ92eP8oKe_Fc14sfnQHaE7&pid=Api&rs=1&c=1&qlt=95&w=133&h=88" group-title="SPORTS",WWE -2
+http://vstream.vip:80/live/testline/testline/146.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="https://s.yimg.com/fz/api/res/1.2/0huP0a75EDTN3pv5v5h4gA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/7dc8984f-453b-3673-808a-b32ff34e10d2/t_140x140" group-title="SPORTS",TNT
+http://vstream.vip:80/live/testline/testline/163.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YES NETWORK" tvg-logo="https://s.yimg.com/fz/api/res/1.2/VkiArR3m0LJypVCKSqYuMA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/b98e2e57-7397-3936-8d2d-d4f2eb664b81/t_500x300" group-title="SPORTS",YES NETWORK
+http://vstream.vip:80/live/testline/testline/164.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="W-SPORT" tvg-logo="http://vstream.vip:80/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj7pZfAh9psj6EkA-B6mUGZk.png" group-title="SPORTS",W-SPORT
+http://vstream.vip:80/live/testline/testline/1313.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOLF CHANNEL" tvg-logo="https://s.yimg.com/fz/api/res/1.2/F8zd1cxvr2wzoD.hhc8agg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/4f11d06a-8a87-3727-a45d-6ff8d6cfc94e/t_140x140" group-title="SPORTS",GOLF CHANNEL
+http://vstream.vip:80/live/testline/testline/286.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOLF" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",GOLF
+http://vstream.vip:80/live/testline/testline/170.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HALLMARK DRAMA" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",HALLMARK DRAMA
+http://vstream.vip:80/live/testline/testline/171.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HALLMARK MOVIES AND MYSTERY" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",HALLMARK MOVIES AND MYSTERY
+http://vstream.vip:80/live/testline/testline/172.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",A&E
+http://vstream.vip:80/live/testline/testline/173.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",A&E
+http://vstream.vip:80/live/testline/testline/174.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACCUWEATHER" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",ACCUWEATHER
+http://vstream.vip:80/live/testline/testline/175.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",AMC
+http://vstream.vip:80/live/testline/testline/176.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC PRESENTS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",AMC PRESENTS
+http://vstream.vip:80/live/testline/testline/177.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC+" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",AMC+
+http://vstream.vip:80/live/testline/testline/178.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMERICAN HEREOS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",AMERICAN HEREOS
+http://vstream.vip:80/live/testline/testline/179.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",ANIMAL PLANET
+http://vstream.vip:80/live/testline/testline/180.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AWE" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",AWE
+http://vstream.vip:80/live/testline/testline/181.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOUNCE TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",BOUNCE TV
+http://vstream.vip:80/live/testline/testline/182.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAVO" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",BRAVO
+http://vstream.vip:80/live/testline/testline/183.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMET" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",COMET
+http://vstream.vip:80/live/testline/testline/184.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COOKING CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",COOKING CHANNEL
+http://vstream.vip:80/live/testline/testline/185.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COURT TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",COURT TV
+http://vstream.vip:80/live/testline/testline/186.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COZI" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",COZI
+http://vstream.vip:80/live/testline/testline/187.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIME AND INVESTIGATION" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",CRIME AND INVESTIGATION
+http://vstream.vip:80/live/testline/testline/188.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DABL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",DABL
+http://vstream.vip:80/live/testline/testline/189.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DESTINATION AMERICA" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",DESTINATION AMERICA
+http://vstream.vip:80/live/testline/testline/190.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",DISCOVERY
+http://vstream.vip:80/live/testline/testline/191.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILY" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",DISCOVERY FAMILY
+http://vstream.vip:80/live/testline/testline/192.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY LIFE" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",DISCOVERY LIFE
+http://vstream.vip:80/live/testline/testline/193.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",DISCOVERY SCIENCE
+http://vstream.vip:80/live/testline/testline/194.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIY NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",DIY NETWORK
+http://vstream.vip:80/live/testline/testline/195.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOVE CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",DOVE CHANNEL
+http://vstream.vip:80/live/testline/testline/196.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E!" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",E!
+http://vstream.vip:80/live/testline/testline/197.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOOD NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",FOOD NETWORK
+http://vstream.vip:80/live/testline/testline/198.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FREEFORM" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",FREEFORM
+http://vstream.vip:80/live/testline/testline/199.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUEL TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",FUEL TV
+http://vstream.vip:80/live/testline/testline/200.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUSE" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",FUSE
+http://vstream.vip:80/live/testline/testline/201.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FYI" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",FYI
+http://vstream.vip:80/live/testline/testline/202.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM SHOPPING" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",GEM SHOPPING
+http://vstream.vip:80/live/testline/testline/203.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GUSTO" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",GUSTO
+http://vstream.vip:80/live/testline/testline/204.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HALLMARK CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",HALLMARK CHANNEL
+http://vstream.vip:80/live/testline/testline/205.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HALLMARK MOVIES AND MYSTERIES" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",HALLMARK MOVIES AND MYSTERIES
+http://vstream.vip:80/live/testline/testline/206.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",HGTV
+http://vstream.vip:80/live/testline/testline/207.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",INVESTIGATION DISCOVERY
+http://vstream.vip:80/live/testline/testline/208.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAW AND CRIME" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",LAW AND CRIME
+http://vstream.vip:80/live/testline/testline/209.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",LIFETIME
+http://vstream.vip:80/live/testline/testline/210.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGHT TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",LIGHT TV
+http://vstream.vip:80/live/testline/testline/211.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGNOLIA" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",MAGNOLIA
+http://vstream.vip:80/live/testline/testline/212.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAVTV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",MAVTV
+http://vstream.vip:80/live/testline/testline/213.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGM" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",MGM
+http://vstream.vip:80/live/testline/testline/214.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MILITARY HISTORY" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",MILITARY HISTORY
+http://vstream.vip:80/live/testline/testline/215.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOTORTREND" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",MOTORTREND
+http://vstream.vip:80/live/testline/testline/216.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",NASA
+http://vstream.vip:80/live/testline/testline/217.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA EDUCATION" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",NASA EDUCATION
+http://vstream.vip:80/live/testline/testline/218.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OUTDOOR CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",OUTDOOR CHANNEL
+http://vstream.vip:80/live/testline/testline/219.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OUTSIDE TV+" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",OUTSIDE TV+
+http://vstream.vip:80/live/testline/testline/220.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OWN" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",OWN
+http://vstream.vip:80/live/testline/testline/221.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",PARAMOUNT
+http://vstream.vip:80/live/testline/testline/222.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POP" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",POP
+http://vstream.vip:80/live/testline/testline/223.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PURSUIT" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",PURSUIT
+http://vstream.vip:80/live/testline/testline/224.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAI ITALIA" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",RAI ITALIA
+http://vstream.vip:80/live/testline/testline/225.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECIPE TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",RECIPE TV
+http://vstream.vip:80/live/testline/testline/226.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLEX TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",RETRO PLEX TV
+http://vstream.vip:80/live/testline/testline/227.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REVOLT" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",REVOLT
+http://vstream.vip:80/live/testline/testline/228.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOP HQ" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",SHOP HQ
+http://vstream.vip:80/live/testline/testline/229.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",SMITHSONIAN CHANNEL
+http://vstream.vip:80/live/testline/testline/230.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONLIFE" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",SONLIFE
+http://vstream.vip:80/live/testline/testline/231.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STORY TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",STORY TV
+http://vstream.vip:80/live/testline/testline/232.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",SYFY
+http://vstream.vip:80/live/testline/testline/233.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",TBN
+http://vstream.vip:80/live/testline/testline/234.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE COWBOY CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",THE COWBOY CHANNEL
+http://vstream.vip:80/live/testline/testline/235.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE FILM DETECTIVE" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",THE FILM DETECTIVE
+http://vstream.vip:80/live/testline/testline/236.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WEATHER CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",WEATHER CHANNEL
+http://vstream.vip:80/live/testline/testline/237.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",TLC
+http://vstream.vip:80/live/testline/testline/238.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT EAST" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",TNT EAST
+http://vstream.vip:80/live/testline/testline/239.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT WEST" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",TNT WEST
+http://vstream.vip:80/live/testline/testline/240.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRAVEL CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",TRAVEL CHANNEL
+http://vstream.vip:80/live/testline/testline/241.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUTV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",TRUTV
+http://vstream.vip:80/live/testline/testline/242.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",USA NETWORK
+http://vstream.vip:80/live/testline/testline/243.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VICELAND" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",VICELAND
+http://vstream.vip:80/live/testline/testline/244.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VICTORY CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",VICTORY CHANNEL
+http://vstream.vip:80/live/testline/testline/245.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WORLD POKER" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",WORLD POKER
+http://vstream.vip:80/live/testline/testline/246.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HAUNT TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM ENTERTAINMENT",HAUNT TV
+http://vstream.vip:80/live/testline/testline/247.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN INT" tvg-logo="https://up.yimg.com/ib/th?id=OIP.1trPKGABE7BTBG8EDBEpbwAAAA&pid=Api&rs=1&c=1&qlt=95&w=89&h=89" group-title="NEWS",CNN INT
+http://vstream.vip:80/live/testline/testline/13.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANC" tvg-logo="http://vstream.vip:80/images/HUySdt2SHXRaYy2IS3iaPuL9Knt1D45sqVGG8mls7ah7FjngNJQcCXrKXmYlqwsh5NHRzW_8GoKj3faS03KN4J4rioe2Cq3RCVZ7R3oF0NbHcRmCFESvkPw1eLJiNKzc.png" group-title="NEWS",ANC
+http://vstream.vip:80/live/testline/testline/44.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNA" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TxJeEPmNB4N5fVoqa-So0bov8EkSsr2vXlG8WiD7YT3mABYoUTfAVjpuR20Z51OOBLmNNI1TIlD5q371pcOqB_.png" group-title="NEWS",CNA
+http://vstream.vip:80/live/testline/testline/45.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALJAZEERA" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5S2Jx3rTwf2lZt2tBqbXgNHEhSXPWNVpHw1XqpU2PvpDw.png" group-title="NEWS",ALJAZEERA
+http://vstream.vip:80/live/testline/testline/46.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEWS" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QXk5piLV6x5NhVriGbVRgioZkkwQsuz7QBHdQl1MtqQA.jpg" group-title="NEWS",FOX NEWS
+http://vstream.vip:80/live/testline/testline/47.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLOOMBERG" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QwoLbsJAAgQuWV1J3O2gr8CUnELKW76r_iGzYEOQr1_g.jpg" group-title="NEWS",BLOOMBERG
+http://vstream.vip:80/live/testline/testline/48.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWSMAX 2" tvg-logo="http://vstream.vip:80/images/OyZ4M8SZaoSfWyRpdA_U4OZl89kDwfsvjxs73NWfpjtiuhky0PbyynEbk8stHdQmY97sk1iIZv6eIdro0tPZNVEUf_zlYFx1rPmjywYnxsjXiOu_Cladz1x8h_4huMdi.png" group-title="NEWS",NEWSMAX 2
+http://vstream.vip:80/live/testline/testline/49.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS WORLD" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QtQk7E-_PDIfsnTbfN_Ryb.png" group-title="NEWS",KBS WORLD
+http://vstream.vip:80/live/testline/testline/51.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK WORLD JAPAN" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TkwLqoLQT2TLag7gWrJTqCjNcpPWV8ddNwchlMnj0Npw.png" group-title="NEWS",NHK WORLD JAPAN
+http://vstream.vip:80/live/testline/testline/71.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRANCE 24" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.lw0vSWnTQqoZ58eTYDSMcwHaFS&pid=Api&P=0&h=220" group-title="NEWS",FRANCE 24
+http://vstream.vip:80/live/testline/testline/84.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NEWS" tvg-logo="https://up.yimg.com/ib/th?id=OIP.XNIcGz96dg_taTo3VwEh9wHaHa&pid=Api&rs=1&c=1&qlt=95&w=104&h=104" group-title="NEWS",ABC NEWS
+http://vstream.vip:80/live/testline/testline/102.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5T_bLy0UUGoNkSWuLjeu01ed1_94bqaoG6VaA3IORxmbQ.jpg" group-title="NEWS",DW
+http://vstream.vip:80/live/testline/testline/113.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC NEWS" tvg-logo="https://up.yimg.com/ib/th?id=OIP.d0ixIMkd4epkfSzyi-iihAHaE8&pid=Api&rs=1&c=1&qlt=95&w=139&h=92" group-title="NEWS",BBC NEWS
+http://vstream.vip:80/live/testline/testline/118.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMNI" tvg-logo="https://s.yimg.com/fz/api/res/1.2/wbxckY76q2sSj2vq7HGJGw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/f76cd0e6-c31a-32b5-a0e4-9e02b6246c6d/t_140x140" group-title="RELIGOUS",SMNI
+http://vstream.vip:80/live/testline/testline/17.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV MARIA" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5S-pGbp_NjeOKV3JBTwSg091AJwZ7M-9D_tZOJtGHhLEw.png" group-title="RELIGOUS",TV MARIA
+http://vstream.vip:80/live/testline/testline/18.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOPE TV" tvg-logo="https://s.yimg.com/fz/api/res/1.2/XCYhj.hQeijJPsJxkqYOxw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/48758dbf-d5bb-3646-86b0-adc189b9517a/t_140x140" group-title="RELIGOUS",HOPE TV
+http://vstream.vip:80/live/testline/testline/555.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFE TV" tvg-logo="https://tse1.explicit.bing.net/th?id=OIP.jMu1Go20TXaU9EpP6HtWGAHaDM&pid=Api&P=0&h=220" group-title="RELIGOUS",LIFE TV
+http://vstream.vip:80/live/testline/testline/66.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CATHOLIC TV" tvg-logo="https://s.yimg.com/fz/api/res/1.2/EtFMbrLbNcIsYsknhD_fVA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/27dd4a67-3551-35e7-bf70-ce28cf57ff50/t_140x140" group-title="RELIGOUS",CATHOLIC TV
+http://vstream.vip:80/live/testline/testline/73.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFE! CHRISTIAN TV" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.UUZ3v_7mTiPJwRfRkm0xjwHaDt&pid=Api&P=0&h=220" group-title="RELIGOUS",LIFE! CHRISTIAN TV
+http://vstream.vip:80/live/testline/testline/74.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN INSPIRE" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Etp_B8kZKlT9WfGprfKh6QHaEK&pid=Api&P=0&h=220" group-title="RELIGOUS",TBN INSPIRE
+http://vstream.vip:80/live/testline/testline/76.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GBN GOSPEL BRODCASTING NETWORK" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.LtQmEMSczJbFkU6yU12prwHaHa&pid=Api&P=0&h=220" group-title="RELIGOUS",GBN GOSPEL BRODCASTING NETWORK
+http://vstream.vip:80/live/testline/testline/86.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CATHOLIC FAITH NETWORK" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.hd-eA4QkTWmKMMvaHxXEZgHaHa&pid=Api&P=0&h=220" group-title="RELIGOUS",CATHOLIC FAITH NETWORK
+http://vstream.vip:80/live/testline/testline/90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EWTN" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Tdyy6NXKhlxO4ZSTYcvFTV.png" group-title="RELIGOUS",EWTN
+http://vstream.vip:80/live/testline/testline/91.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GCTV GREAT COMMISSION" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TopVryhvVF1V2HYlvQgeDe.jpg" group-title="RELIGOUS",GCTV GREAT COMMISSION
+http://vstream.vip:80/live/testline/testline/99.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTN 47" tvg-logo="https://s.yimg.com/fz/api/res/1.2/a1WGQYtnMpZE5uBAO6Iwuw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/199c1ff6-0c81-35bb-85c1-607626721f17/t_140x140" group-title="RELIGOUS",CCTN 47
+http://vstream.vip:80/live/testline/testline/109.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIX" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RWO3h7gNWxVK2LBEOYOF1y6EWiPjW_6TRUqWm8BXtGcQ.jpg" group-title="ASIAN & FOREIGN",KIX
+http://vstream.vip:80/live/testline/testline/25.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTIME MOVIE" tvg-logo="http://vstream.vip:80/images/jKiDqCKkkFeD8eK7W2bjFis61Cse1N0QwTG7d9F0-cOxdrYbhuA6LyEd5Atgo9Qp2X6yOLWPKvGMa8StMwUVQs6_lLH9pGvoFgZjkZtdeCfoUkHOEjcyhw0SsE2jeghzBONPINvymrvu2M7cXeniLb6iCI7y9s4lJPYsceoezsor_BClgBgMzvkeeCEGVjmWWzxdxipr7vy9FahVJdrcb0kmkm3gP1I-_IJ" group-title="ASIAN & FOREIGN",MYTIME MOVIE
+http://vstream.vip:80/live/testline/testline/27.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM" tvg-logo="http://vstream.vip:80/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9r7Q7WU3m_sHzuuVx91HYw2Mh88MQEfKob5TsjUQjn-hoCo_fD8cAIRMX_nN8JWDI.png" group-title="ASIAN & FOREIGN",GEM
+http://vstream.vip:80/live/testline/testline/1311.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 MONDE" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.B1AZJcctfv6rb5UuMBHNQAHaFj&pid=Api&P=0&h=220" group-title="ASIAN & FOREIGN",TV5 MONDE
+http://vstream.vip:80/live/testline/testline/1317.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV 13" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.dhaeOHG7_qocYoCROmpw1wAAAA&pid=Api&P=0&h=220" group-title="ASIAN & FOREIGN",CCTV 13
+http://vstream.vip:80/live/testline/testline/52.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOTUS MACAU" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RXNQ6lMwG0ht4gQh56Ya73ho64_cv3-wBy-8HzqoExmQ.png" group-title="ASIAN & FOREIGN",LOTUS MACAU
+http://vstream.vip:80/live/testline/testline/53.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EBS+1" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.ENES36QQ3oCMFv0mr56aOQAAAA&pid=Api&P=0&h=220" group-title="ASIAN & FOREIGN",EBS+1
+http://vstream.vip:80/live/testline/testline/54.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIE PLUS" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Cy8K4T1_wE65uekLkRlsRAAAAA&pid=Api&P=0&h=220" group-title="ASIAN & FOREIGN",MOVIE PLUS
+http://vstream.vip:80/live/testline/testline/69.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARIRANG TV" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.UQLbCS6FjJFIQxrbvdw1nQHaEc&pid=Api&P=0&h=220" group-title="ASIAN & FOREIGN",ARIRANG TV
+http://vstream.vip:80/live/testline/testline/85.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K-ONE" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.dXWj_mP8gm_7VtXoTyARawAAAA&pid=Api&P=0&h=220" group-title="ASIAN & FOREIGN",K-ONE
+http://vstream.vip:80/live/testline/testline/96.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM TV" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SkNUjGivKIJnXxSlHzSfhh.jpg" group-title="ASIAN & FOREIGN",GEM TV
+http://vstream.vip:80/live/testline/testline/100.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GALAXY PREMIUM" tvg-logo="http://vstream.vip:80/images/4kkQ2QJIUBXV8E_ddm1Kb2ZSmtPF1Pe3UWtuceTk4Gs5BnmWj2H-CyACZloiFwRPk2BOb_5fv8C7peEXoK31mTSbdQSnP0GIFpxFne7WvHsKkyBM9ifwdo4E0nuSd1zOZgBA3neXNU0pM1WhUdnVpM2cUrkpP8xK12vj14LhPuo.png" group-title="ASIAN & FOREIGN",GALAXY PREMIUM
+http://vstream.vip:80/live/testline/testline/106.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GALAXY" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.KaBSV7ABEyX8HF-7xYjEhgAAAA&pid=Api&P=0&h=220" group-title="ASIAN & FOREIGN",GALAXY
+http://vstream.vip:80/live/testline/testline/107.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIE BOX" tvg-logo="http://vstream.vip:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7oQhJS4SKOXp1Thsd3PptWOz4wrqRxWUFi5ZJW9KxOsGlXNoWc0w9lj_NF1CnS2tfaABDpehBFGBrVEKQnwx3Ng.png" group-title="ASIAN & FOREIGN",MOVIE BOX
+http://vstream.vip:80/live/testline/testline/131.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="http://seeklogo.com/images/L/lifetime-movie-network-logo-6A27FC5FE1-seeklogo.com.gif" group-title="ASIAN & FOREIGN",LIFETIME MOVIE NETWORK
+http://vstream.vip:80/live/testline/testline/165.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWCASE" tvg-logo="https://s.yimg.com/fz/api/res/1.2/xLfCVx027RNZCCJ9wmp5Xw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/5e42a4f6-4cd2-3c3d-a212-11ba2f4d18c3/t_140x140" group-title="ASIAN & FOREIGN",SHOWCASE
+http://vstream.vip:80/live/testline/testline/1329.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K-PLUS" tvg-logo="https://s.yimg.com/fz/api/res/1.2/KVXnBqT_XR6toVJ7L.Fu3Q--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/b438893c-c594-347a-9b99-afc53395bb21/t_140x140" group-title="ASIAN & FOREIGN",K-PLUS
+http://vstream.vip:80/live/testline/testline/1328.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DREAMWORKS pinoy" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TAYymMlciBYnSOf0J_qv8vUBx4vJ-RcBFWL9p4s3HNog.jpg" group-title="KIDS",DREAMWORKS pinoy
+http://vstream.vip:80/live/testline/testline/1318.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOONBUG KIDS" tvg-logo="https://up.yimg.com/ib/th?id=OIP.3x0vTY28xuDzejbM8oNLAAAAAA&pid=Api&rs=1&c=1&qlt=95&w=338&h=121" group-title="KIDS",MOONBUG KIDS
+http://vstream.vip:80/live/testline/testline/1301.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WARNER TV" tvg-logo="https://up.yimg.com/ib/th?id=OIP.8xIdcYektX82pKAdaXcQEgHaHr&pid=Api&rs=1&c=1&qlt=95&w=104&h=108" group-title="KIDS",WARNER TV
+http://vstream.vip:80/live/testline/testline/1309.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBEEBIES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.0es5f1sOwiKPhtjL-0k1TQHaEK&pid=Api&P=0&h=220" group-title="KIDS",CBEEBIES
+http://vstream.vip:80/live/testline/testline/55.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAX" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TO3SRhq7J5Da04rY-EaJBW.jpg" group-title="KIDS",ANIMAX
+http://vstream.vip:80/live/testline/testline/56.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QrzMuiBS4u6E8-kz9LxyL45H9hbEfiZyZKVbrm-MgZLQ.png" group-title="KIDS",NICKELODEON
+http://vstream.vip:80/live/testline/testline/57.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SnCEqmDiUZDeNxIQHH004g.jpg" group-title="KIDS",NICK JR
+http://vstream.vip:80/live/testline/testline/58.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOMOO" tvg-logo="https://s.yimg.com/fz/api/res/1.2/KcaGpBI9aPYdxpLgr09tYQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/48ca0084-6236-317f-9af9-787f7549a1b8/t_140x140" group-title="KIDS",ZOOMOO
+http://vstream.vip:80/live/testline/testline/59.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082019/disneychannellogo.png?YpZXEbgCRCmc0wILX_Wh9q5yOGOptbSs&itok=i66-yn1Y" group-title="KIDS",DISNEY CHANNEL
+http://vstream.vip:80/live/testline/testline/60.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JUNIOR" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZPrZY2rMDfdKqWH59JopbgHaE8&pid=Api&P=0&h=220" group-title="KIDS",DISNEY JUNIOR
+http://vstream.vip:80/live/testline/testline/61.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DREAMWORKS" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TAYymMlciBYnSOf0J_qv8vUBx4vJ-RcBFWL9p4s3HNog.jpg" group-title="KIDS",DREAMWORKS
+http://vstream.vip:80/live/testline/testline/62.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TX2djGMQCBoKqwzwxXGGPHgmg8IH7fyOfYFeT2Oupw1YQw67n2IBLHjF7yZG6tZN0.jpg" group-title="KIDS",CARTOON NETWORK
+http://vstream.vip:80/live/testline/testline/63.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKTOONS" tvg-logo="http://vstream.vip:80/images/8MO0lTnj9M_ERwLqQMxWzt3_8fKOo33WxD9okqSdiJdBYLUNZEjo00JQGxPzEEjZ8PYoyii-145_97l7HVArnqfdeW-kgbb6E1XPEfSCmDd_uJKKRKbzN0c6KvOpcFmBSVChrvs2IAFIM2buRV2yoIDuLMr-DQHSdyLMzGp84HhtSMuY9zAf4iVXW2Q7fC5lfD9h7qzBk3yuvH_lU1fDNA.png" group-title="KIDS",NICKTOONS
+http://vstream.vip:80/live/testline/testline/75.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOOMERANG" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Z5ZRflgPv8gWhe1GatcqlAHaFo&pid=Api&P=0&h=220" group-title="KIDS",BOOMERANG
+http://vstream.vip:80/live/testline/testline/117.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY XD" tvg-logo="https://s.yimg.com/fz/api/res/1.2/LKUOstyPgAAnXUmJqCfX8g--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/1e47ba99-9ca3-3a7d-873a-3c38c853f7f6/t_500x300" group-title="KIDS",DISNEY XD
+http://vstream.vip:80/live/testline/testline/145.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8V7TLvDb7KARA-wOTovyPQHaEK&pid=Api&P=0&h=220" group-title="EDUCATIONAL",LOVE NATURE
+http://vstream.vip:80/live/testline/testline/37.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ASIA" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.HNObD6PSTzItVV8vK8SwpwAAAA&pid=Api&P=0&h=220" group-title="EDUCATIONAL",DISCOVERY ASIA
+http://vstream.vip:80/live/testline/testline/38.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://s.yimg.com/fz/api/res/1.2/uIa9zHxfTB2C1h7kjGNiMQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/3a418602-036a-33e8-b472-4d605cab19a8/t_500x300" group-title="EDUCATIONAL",ANIMAL PLANET
+http://vstream.vip:80/live/testline/testline/39.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC EARTH" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.5nS9Xh00fHbiyn63A8inrQHaFl&pid=Api&P=0&h=220" group-title="EDUCATIONAL",BBC EARTH
+http://vstream.vip:80/live/testline/testline/41.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILY" tvg-logo="http://vstream.vip:80/images/b1fpUhU7-pxOCTH1xsRd_7uFWw7A19vCeT2cwAgRufYHsSkpGxlhqyK5o9PtbXrnt_zwE6LRXdcf3naVPpg5lNI04BJtOR2sQsyfdsZNglw.png" group-title="EDUCATIONAL",DISCOVERY FAMILY
+http://vstream.vip:80/live/testline/testline/168.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIME AND INVESTIGATION" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TGx46iWWzcKc70Ky9wZtTDaSWp1irL7pN5AJYlHnRsmw.jpg" group-title="EDUCATIONAL",CRIME AND INVESTIGATION
+http://vstream.vip:80/live/testline/testline/89.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RqJTM26xz8HHvG6aq9ocpk4x6EeEg1zUkPP8zujk2QZEdj7ttqRv83VDSEHxQjtEc.png" group-title="EDUCATIONAL",DISCOVERY
+http://vstream.vip:80/live/testline/testline/121.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORY" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Rd8D2Chijc3vD7n4s486GNWmaqTNp7fGP3I0l3qasjBccTfyE6PNHTOsM9Kx1Osv0.jpg" group-title="EDUCATIONAL",HISTORY
+http://vstream.vip:80/live/testline/testline/136.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD" tvg-logo="https://s.yimg.com/fz/api/res/1.2/jKxnWW_ycLX8K2iiivrZ1g--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/61388c75-7031-3c71-8a08-8fdac41d3214/t_500x300" group-title="EDUCATIONAL",NAT GEO WILD
+http://vstream.vip:80/live/testline/testline/137.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://media.nationalgeographic.org/assets/photos/000/335/33506_r646x363.jpg?0bccedc62766ce70b551a31bca19734e2f9fdd89" group-title="EDUCATIONAL",NATIONAL GEOGRAPHIC
+http://vstream.vip:80/live/testline/testline/139.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY LIFE" tvg-logo="http://vstream.vip:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjQE4s87lZYDNWMlFLOYm1qtVBCzf1EtjED_Uk0nDQyLAXEHHab9fcA13VSdCk_kDlt9pjErV3CdLXpBx1Q9SQPe96cckNHaTTsxWp3zV_iYk.png" group-title="EDUCATIONAL",DISCOVERY LIFE
+http://vstream.vip:80/live/testline/testline/169.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.-4CtPtr73y-nhwGEOuLRGgHaHa&pid=Api&P=0&h=220" group-title="EDUCATIONAL",DISCOVERY SCIENCE
+http://vstream.vip:80/live/testline/testline/40.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://s.yimg.com/fz/api/res/1.2/5dWOWTgCQ8NCSUu2tb7QZQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/23cba746-224e-3cb6-968c-9d8eedf95cf1/t_500x300" group-title="EDUCATIONAL",INVESTIGATION DISCOVERY
+http://vstream.vip:80/live/testline/testline/78.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRAVEL CHANNEL" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TbizNQfNX_jaae1iOgWPsXO4UGFFumqiyBrkWaS_kcdw.jpg" group-title="EDUCATIONAL",TRAVEL CHANNEL
+http://vstream.vip:80/live/testline/testline/79.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OUTDOOR" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.z7-l52cuVh3lGy4nfcBtfQHaFj&pid=Api&P=0&h=220" group-title="EDUCATIONAL",OUTDOOR
+http://vstream.vip:80/live/testline/testline/82.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILD EARTH" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.SImodQFxnJXPx0P108fErAHaEK&pid=Api&P=0&h=220" group-title="EDUCATIONAL",WILD EARTH
+http://vstream.vip:80/live/testline/testline/93.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.GpvM3--bNBNZLwuP07GNawHaFj&pid=Api&P=0&h=220" group-title="EDUCATIONAL",DISCOVERY CHANNEL
+http://vstream.vip:80/live/testline/testline/123.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TURBO" tvg-logo="https://up.yimg.com/ib/th?id=OIP.2mJ5j5bYdN7nYzv92S1RBgHaCx&pid=Api&rs=1&c=1&qlt=95&w=247&h=92" group-title="EDUCATIONAL",DISCOVERY TURBO
+http://vstream.vip:80/live/testline/testline/124.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFN" tvg-logo="https://up.yimg.com/ib/th?id=OIP.8tBpwerOq_LZ65WdxGIetAAAAA&pid=Api&rs=1&c=1&qlt=95&w=147&h=101" group-title="LIFESTYLE",AFN
+http://vstream.vip:80/live/testline/testline/134.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME" tvg-logo="https://s.yimg.com/fz/api/res/1.2/Qm02WH_UEzgkvmnoKijBog--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/2736cb93-17ab-3fe3-b4b8-0ed40634b335/t_500x300" group-title="LIFESTYLE",LIFETIME
+http://vstream.vip:80/live/testline/testline/1300.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SnEofm6p7yU9gb73Uf4rnn.png" group-title="LIFESTYLE",TLC
+http://vstream.vip:80/live/testline/testline/50.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION TV" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.netr5UOsO6rqJLU6CPWSywHaHH&pid=Api&P=0&h=220" group-title="LIFESTYLE",FASHION TV
+http://vstream.vip:80/live/testline/testline/67.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RvRmSGmJ92h0HAfxBWJL0k.png" group-title="LIFESTYLE",HGTV
+http://vstream.vip:80/live/testline/testline/125.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOOD NETWORK" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TOiO_fC1MeK3og77Mpd8CsNswCiQ6ZaPwJslpnnWlJscut-_S3aTfRGUDnIc9LkeM.jpg" group-title="LIFESTYLE",FOOD NETWORK
+http://vstream.vip:80/live/testline/testline/126.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC LIFESTYLE" tvg-logo="https://up.yimg.com/ib/th?id=OIP.fUghMMYr5iCmVjGYROzBLwHaDv&pid=Api&rs=1&c=1&qlt=95&w=184&h=93" group-title="LIFESTYLE",BBC LIFESTYLE
+http://vstream.vip:80/live/testline/testline/686.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV ASIA" tvg-logo="https://s.yimg.com/fz/api/res/1.2/4_udIju2X.TV8rCjcJm7fQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/3a2c270f-2039-3991-9a11-f531ed2e2934/t_140x140" group-title="ENTERTAINMENT",MTV ASIA
+http://vstream.vip:80/live/testline/testline/1302.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 90s" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.66mE7ezot9wlTdA9hlSXggHaIW&pid=Api&P=0&h=220" group-title="ENTERTAINMENT",MTV 90s
+http://vstream.vip:80/live/testline/testline/42.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYX GLOBAL" tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SVfdlEXNO3oiJPYHBWkNpZ.jpg" group-title="ENTERTAINMENT",MYX GLOBAL
+http://vstream.vip:80/live/testline/testline/92.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV U" tvg-logo="https://s.yimg.com/fz/api/res/1.2/oZotvnXd_89jGNhG4DCRAQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/b56cc27d-f61e-376c-b36c-04f7cf28826b/t_140x140" group-title="ENTERTAINMENT",MTV U
+http://vstream.vip:80/live/testline/testline/140.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYX" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.AzsKve6RLgOgcsv3Iaf4XQHaHX&pid=Api&P=0&h=220" group-title="ENTERTAINMENT",MYX
+http://vstream.vip:80/live/testline/testline/43.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC THRILLERS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",AMC THRILLERS
+http://vstream.vip:80/live/testline/testline/248.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX STARMAX" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",CINEMAX STARMAX
+http://vstream.vip:80/live/testline/testline/249.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX ACTIONMAX" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",CINEMAX ACTIONMAX
+http://vstream.vip:80/live/testline/testline/250.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",CINEMAX
+http://vstream.vip:80/live/testline/testline/251.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX MOREMAX" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",CINEMAX MOREMAX
+http://vstream.vip:80/live/testline/testline/252.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",FX
+http://vstream.vip:80/live/testline/testline/253.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXM" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",FXM
+http://vstream.vip:80/live/testline/testline/254.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXX" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",FXX
+http://vstream.vip:80/live/testline/testline/255.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",HBO
+http://vstream.vip:80/live/testline/testline/256.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",HBO 2
+http://vstream.vip:80/live/testline/testline/257.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO COMEDY" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",HBO COMEDY
+http://vstream.vip:80/live/testline/testline/258.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO ZONE" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",HBO ZONE
+http://vstream.vip:80/live/testline/testline/259.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HDNET" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",HDNET
+http://vstream.vip:80/live/testline/testline/260.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIEMAX" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",MOVIEMAX
+http://vstream.vip:80/live/testline/testline/261.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIEPLEX" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",MOVIEPLEX
+http://vstream.vip:80/live/testline/testline/262.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTIME MOVIE NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",MYTIME MOVIE NETWORK
+http://vstream.vip:80/live/testline/testline/263.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PIXL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",PIXL
+http://vstream.vip:80/live/testline/testline/264.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",SHOWTIME
+http://vstream.vip:80/live/testline/testline/265.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MOVIE CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",SONY MOVIE CHANNEL
+http://vstream.vip:80/live/testline/testline/266.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ CINEMA" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",STARZ CINEMA
+http://vstream.vip:80/live/testline/testline/267.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ COMEDY" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",STARZ COMEDY
+http://vstream.vip:80/live/testline/testline/268.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNDANCE" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",SUNDANCE
+http://vstream.vip:80/live/testline/testline/269.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVIE CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM MOVIES",MOVIE CHANNEL
+http://vstream.vip:80/live/testline/testline/270.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BILLIARD TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",BILLIARD TV
+http://vstream.vip:80/live/testline/testline/271.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS SPORTS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",CBS SPORTS
+http://vstream.vip:80/live/testline/testline/272.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",ELEVEN SPORTS
+http://vstream.vip:80/live/testline/testline/273.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",ESPN
+http://vstream.vip:80/live/testline/testline/274.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",ESPN 2
+http://vstream.vip:80/live/testline/testline/275.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN LONGHORN" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",ESPN LONGHORN
+http://vstream.vip:80/live/testline/testline/276.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN NEWS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",ESPN NEWS
+http://vstream.vip:80/live/testline/testline/277.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN SEC" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",ESPN SEC
+http://vstream.vip:80/live/testline/testline/278.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN U" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",ESPN U
+http://vstream.vip:80/live/testline/testline/279.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIGHT NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",FIGHT NETWORK
+http://vstream.vip:80/live/testline/testline/280.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SOCCER" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",FOX SOCCER
+http://vstream.vip:80/live/testline/testline/281.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 1" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",FOX SPORTS 1
+http://vstream.vip:80/live/testline/testline/282.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 2" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",FOX SPORTS 2
+http://vstream.vip:80/live/testline/testline/283.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUBO SPORTS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",FUBO SPORTS
+http://vstream.vip:80/live/testline/testline/284.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GINX" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",GINX
+http://vstream.vip:80/live/testline/testline/285.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNT CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",HUNT CHANNEL
+http://vstream.vip:80/live/testline/testline/287.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMPACT WRESTLING" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",IMPACT WRESTLING
+http://vstream.vip:80/live/testline/testline/288.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LONGHORN NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",LONGHORN NETWORK
+http://vstream.vip:80/live/testline/testline/289.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MARQUEE SPORTS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",MARQUEE SPORTS
+http://vstream.vip:80/live/testline/testline/290.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MASN" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",MASN
+http://vstream.vip:80/live/testline/testline/291.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",MLB NETWORK
+http://vstream.vip:80/live/testline/testline/292.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",NBA TV
+http://vstream.vip:80/live/testline/testline/293.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV HD" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",NBA TV HD
+http://vstream.vip:80/live/testline/testline/294.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC SPORTS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",NBC SPORTS
+http://vstream.vip:80/live/testline/testline/295.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",NFL NETWORK
+http://vstream.vip:80/live/testline/testline/296.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OLYMPIC CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",OLYMPIC CHANNEL
+http://vstream.vip:80/live/testline/testline/297.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POKER GO" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",POKER GO
+http://vstream.vip:80/live/testline/testline/298.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEC NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",SEC NETWORK
+http://vstream.vip:80/live/testline/testline/299.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPECTRUM SPORTS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",SPECTRUM SPORTS
+http://vstream.vip:80/live/testline/testline/300.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTS GRID" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",SPORTS GRID
+http://vstream.vip:80/live/testline/testline/301.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTSMAN" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",SPORTSMAN
+http://vstream.vip:80/live/testline/testline/302.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STADIUM" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",STADIUM
+http://vstream.vip:80/live/testline/testline/303.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TENNIS CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",TENNIS CHANNEL
+http://vstream.vip:80/live/testline/testline/304.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",UFC CHANNEL
+http://vstream.vip:80/live/testline/testline/305.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",WWE
+http://vstream.vip:80/live/testline/testline/306.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YES NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",YES NETWORK
+http://vstream.vip:80/live/testline/testline/307.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WORLD FISHING NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM SPORTS",WORLD FISHING NETWORK
+http://vstream.vip:80/live/testline/testline/308.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABY FIRST" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",BABY FIRST
+http://vstream.vip:80/live/testline/testline/309.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABY TV" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",BABY TV
+http://vstream.vip:80/live/testline/testline/310.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOOMERANG" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",BOOMERANG
+http://vstream.vip:80/live/testline/testline/311.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",CARTOON NETWORK
+http://vstream.vip:80/live/testline/testline/312.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",DISNEY CHANNEL
+http://vstream.vip:80/live/testline/testline/313.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",DISNEY JR
+http://vstream.vip:80/live/testline/testline/314.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY XD" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",DISNEY XD
+http://vstream.vip:80/live/testline/testline/315.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",NICK JR
+http://vstream.vip:80/live/testline/testline/316.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKTOON" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",NICKTOON
+http://vstream.vip:80/live/testline/testline/317.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",NICKELODEON
+http://vstream.vip:80/live/testline/testline/318.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS KIDS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",PBS KIDS
+http://vstream.vip:80/live/testline/testline/319.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEEN NICK" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",TEEN NICK
+http://vstream.vip:80/live/testline/testline/320.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVESAL KIDS" tvg-logo="http://vstream.vip:80/images/ivd6kWwDt6yfVn-hxQjqTltKk-gesLkppJcWKSEOgASqzAq4D5FxIgZ-t3POdxI-QbcSOkhKOMchSLMKFvIVrO9H7rH5puSiYty-ZrsxhHjkTqbWMHemtWg4uvgqpEnC.jpg" group-title="DIRECT STREAM KIDS",UNIVESAL KIDS
+http://vstream.vip:80/live/testline/testline/321.m3u8
